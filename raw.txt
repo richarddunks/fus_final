@@ -29,6 +29,11 @@ Summary of previous work
     Unlike biological organisms or physical phenomena, the city is an 
 
 
+Analysis of CBSAs and Patents
+
+    To assess the use of CBSAs and CSAs in urban science, the following analysis will attempt to recreate the work described in Bettencourt, et al. (2010) looking at the correlations between population and patents.  Bettencourt, et al. (2010) used a different dataset than the one employed in this analysis.  The data used in this report drew on raw data from the US Patent and Trademark Office, assigning authorship to Core Based Statistical Areas based on the zip code associated with the inventor or inventors of a patent.  In the case where multiple inventors lived in different CBSA, the credit for that patent was "shared" equally among the CBSA.  The patent data used spanned the period 1975 - 2006, with limited data from 1963 through 1974 [Marx 879].
+
+    This data makes use of data from the US Patent and Trademark Office that released data for the period 2000 through 2011
 
 
 Appendix I : Official Definitions
