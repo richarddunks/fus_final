@@ -1,0 +1,61 @@
+The use of Core Based Statistical Areas in Urban Science
+
+Introduction
+
+    While the field of urban science is comparatively new and undefined as a discipline, there has emerged a set of eminenent theorists in the field, concentrated at the Sante Fe Institute who've produced some of the foundational works in looking at cities as a complex system of systems.  These theorists include Geoffrey West, Luis Bettencourt, and Jose Lobo. Coming out of a background in physics, they've been responsible for developing a science that looks to apply the basic laws from the natural sciences to cities. 
+
+    As part of their work, they've identified patterns indicative of the same scaling laws found in nature to the structure of cities.  Whether looking at utility construction or the distribution of service stations, a distinct scaling factor seems to be in operation, conditioning the development of the urban areas along a gradiant defined by rough proportions to the city's population.
+    
+    The following paper will look at some of the data used in the analysis of urban areas, particularly the demographic data used to provide evidence for scaling laws in cities in an attempt to better define the proper uses of statistical data on cities.  The hope is to highlight potential issues, particularly in how the findings are interpreted in the growing field of urban science.
+
+
+History, purpose, and structure of CBSAs
+    
+    In the 1940s, with various Federal agencies engaged in statistical work describing the booming metropolitan areas of the US, having a standard geographic delineation of what constituted such an area had value in helping make the work of one agency comparible with that of another.  The Bureau of the Budget, the precussor to the current Office of Management and Budget (OMB), undertook the task of delineating these areas, referred to as "standard metropolitan areas" ahead of the 1950 decennial census.  Since then, OMB has regularly reviewed the delineation of these areas in consultation with a review board consisting of representatives from the various statistical agencies and an open public comment process soliciting feedback from the public, including working professionals in the field, on the delineation of these boundaries.  
+
+    The purpose of CBSAs are to provide a consistent aggregation of statistical data at a level meaningful for discussing a particular urban area.  Currently, there are 13 agencies, including the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis, primarily engaged in statistical activities, with another 89 agencies carrying out some statistical work as part of their primary mission. By providing a consistent delineation of geographic boundaries, demographers, economists, and other researchers don't have to contend with 102 different definitions of a city, but can easily compare the measures of one agency with those of another for the same geographic location. 
+
+    The current definition describes a CBSA as:
+
+    "A statistical geographic entity consisting of the county or counties associated with at least one core (urbanized area or urban cluster) of at least 10,000 population, plus adjacent counties having a high degree of social and economic integration with the core as measured through commuting ties with the counties containing the core. Metropolitan and Micropolitan Statistical Areas are the two categories of Core Based Statistical Areas."
+
+
+Summary of previous work
+
+    Like with any science, the act of study begins with the collection and analysis of data.  For cities, much of this data comes from statistical agencies such as the US Bureau of the Census, which is responsible for collecting demographic data on the US population and making the data available to the public.  
+
+    The Census Bureau as well as the other 12 agencies of the federal government who are primarily focused on the collection and dissemination of statistical data, follow certain standards and use a common language for the dissemination of their collected data.  
+
+    Unlike biological organisms or physical phenomena, the city is an 
+
+
+
+
+Appendix I : Official Definitions
+
+    The definition of a Metropolitan Statistical Area is as follows:
+
+    "Metropolitan Statistical Area—A Core Based Statistical Area associated with at least one urbanized area that has a population of at least 50,000. The Metropolitan Statistical Area comprises the central county or counties containing the core, plus adjacent outlying counties having a high degree of social and economic integration with the central county or counties as measured through commuting."
+
+    The definition of a Micropolitan Statistical Area is as follows:
+
+    "Micropolitan Statistical Area—A Core Based Statistical Area associated with at least one urban cluster that has a population of at least 10,000, but less than 50,000. The Micropolitan Statistical Area comprises the central county or counties containing the core, plus adjacent outlying counties having a high degree of social and economic integration with the central county or counties as measured through commuting."
+
+    The definition of a New England City and Town Area is as follows:
+
+    New England City and Town Area (NECTA)—A statistical geographic entity that is delineated using cities and towns as building blocks and that is conceptually similar to the Core Based Statistical Areas in New England (which are delineated using counties as building blocks).
+
+    The definition of a central county is as follows:
+
+    Central county—The county or counties of a Core Based Statistical Area containing a substantial portion of an urbanized area or urban cluster or both, and to and from which commuting is measured to determine qualification of outlying counties.
+
+    The definition of a Combined Statistical Area is as follows
+
+    Combined Statistical Area—A geographic entity consisting of two or more adjacent Core Based Statistical Areas with employment interchange measures of at least 15.
+
+    The definition of a Core Based Statistical Area is as follows:
+
+    Core Based Statistical Area (CBSA)— A statistical geographic entity consisting of the county or counties associated with at least one core (urbanized area or urban cluster) of at least 10,000 population, plus adjacent counties having a high degree of social and economic integration with the core as measured through commuting ties with the counties containing the core. Metropolitan and Micropolitan Statistical Areas are the two categories of Core Based Statistical Areas.
+
+#fedstat listing 
+http://www.whitehouse.gov/sites/default/files/omb/assets/information_and_regulatory_affairs/13statprog.pdf 
