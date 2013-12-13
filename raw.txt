@@ -15,10 +15,13 @@ History, purpose, and structure of CBSAs
 
     The purpose of CBSAs are to provide a consistent aggregation of statistical data at a level meaningful for discussing a particular urban area.  Currently, there are 13 agencies, including the Bureau of the Census, the Bureau of Labor Statistics, and the Bureau of Economic Analysis, primarily engaged in statistical activities, with another 89 agencies carrying out some statistical work as part of their primary mission. By providing a consistent delineation of geographic boundaries, demographers, economists, and other researchers don't have to contend with 102 different definitions of a city, but can easily compare the measures of one agency with those of another for the same geographic location. 
 
+**graphic of 2010 CBSA boundaries
+
     The current definition describes a CBSA as:
 
     "A statistical geographic entity consisting of the county or counties associated with at least one core (urbanized area or urban cluster) of at least 10,000 population, plus adjacent counties having a high degree of social and economic integration with the core as measured through commuting ties with the counties containing the core. Metropolitan and Micropolitan Statistical Areas are the two categories of Core Based Statistical Areas."
 
+**graphic of 2010 CSA overlay CBSA boundaries
 
 Summary of previous work
 
@@ -28,12 +31,20 @@ Summary of previous work
 
     Unlike biological organisms or physical phenomena, the city is an 
 
+**graphic scaling of cities
+
+**graphic of patents log population
+
 
 Analysis of CBSAs and Patents
 
-    To assess the use of CBSAs and CSAs in urban science, the following analysis will attempt to recreate the work described in Bettencourt, et al. (2010) looking at the correlations between population and patents.  Bettencourt, et al. (2010) used a different dataset than the one employed in this analysis.  The data used in this report drew on raw data from the US Patent and Trademark Office, assigning authorship to Core Based Statistical Areas based on the zip code associated with the inventor or inventors of a patent.  In the case where multiple inventors lived in different CBSA, the credit for that patent was "shared" equally among the CBSA.  The patent data used spanned the period 1975 - 2006, with limited data from 1963 through 1974 [Marx 879].
+    To assess the use of CBSAs and CSAs in urban science, the following analysis will attempt to recreate the work described in Bettencourt, et al. (2010) looking at the correlations between population and patents.  Bettencourt, et al. (2010) used a different dataset than the one employed in this analysis.  The Bettencourt data drew on raw data from the US Patent and Trademark Office, assigning authorship to Core Based Statistical Areas based on the zip code of the inventor or inventors of a patent.  In the case where multiple inventors lived in different CBSAs, the credit for that patent was "shared" equally among the CBSA.  The patent data used by Bettencourt, et al. spanned the period 1975 - 2006, with limited data from 1963 through 1974 [Marx 879].  The CBSA delineations used in the Bettencourt analysis were likely those delineated in 2000 by OMB as the 2010 delineations where not defined and in common use at the time the initial work was done with this data.  
 
-    This data makes use of data from the US Patent and Trademark Office that released data for the period 2000 through 2011
+    This data for this analysis makes use of publically available data from the US Patent and Trademark Office website spanning the period 2000 through 2011, aggregated by the USPTO into CBSAs based on the city associated with the address of the first inventor listed on the patent application. In the case where a city listed as the address was located in several CBSAs, the credit for the patent was split equally among the CBSA's that overlapped with the city.  The end result was rounded to the nearest whole number. The 2010 CBSA geographical delineations were used in the USPTO analysis, which differ from the 2010 delineations.
+
+**graphic comparing 2000 delineations with 2010 delineations
+
+
 
 
 Appendix I : Official Definitions
